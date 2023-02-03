@@ -1,6 +1,6 @@
 {
     "version": 2,
     "installCommand": "npm install",
-    "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
+    "rewrites": [{ "source": "/(.*)", "destination": "/public" }]
   }
   
