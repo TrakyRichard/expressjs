@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "simple-update-notifier": {
+      "version": "1.1.0",
+      "from": "simple-update-notifier@1.1.0",
+      "dependencies": {
+        "semver": {
+          "version": "7.3.8",
+          "from": "semver@7.3.8"
+        }
+      }
+    }
+  }
+}
